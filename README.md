@@ -9,3 +9,4 @@ Development platform: C# with Visual Studio
 AI:Microsoft LUIS
 Chatbot Current supporting platform :Skype,Telegram
 
+Skype: https://join.skype.com/bot/d8432542-6b64-4555-b958-18d66564bd37
