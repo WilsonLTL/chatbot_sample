@@ -10,3 +10,7 @@ AI:Microsoft LUIS<br />
 Chatbot Current supporting platform :Skype,Telegram<br />
 <br />
 Skype: https://join.skype.com/bot/d8432542-6b64-4555-b958-18d66564bd37<br />
+
+![image](https://i.imgur.com/q5FYW98.png)
+
+![image](https://i.imgur.com/1wl6hT9.png)
